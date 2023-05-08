@@ -1,0 +1,10 @@
+Atividade bootstrap
+
+1. Criar um site com 5 páginas
+    - 1º com Carroussel e +um Componente do bootstrap   
+    - 2º Com 12 Cards distribuidos em linhas e colunas
+    - 3º página de login
+    - 4ª págian de cadastro
+    - 5º página de contato
+
+    obs: todas as páginas devem ter header e footer(iguais)
